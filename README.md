@@ -5,7 +5,7 @@ Passionate about technology and motorcycles, trying to make a better world, but 
 - 🔭 I’m currently working on NGO Soluções like a mobile developer 
 - 🌱 I’m currently learning React Native, NodeJS, ReactJS
 - 💬 Ask me about tech, motorcycles and life
-- 📫 How to reach me: Look at the badges
+- 📫 How to reach me: Look below
 
 [[Instagram](https://www.instagram.com/jonatasfalkaniere/)]
 [[LinkedIn](https://www.linkedin.com/in/jonatasfalkaniere)]
