@@ -7,5 +7,4 @@ Passionate about technology and motorcycles, trying to make a better world, but 
 - 💬 Ask me about tech, motorcycles and life
 - 📫 How to reach me: Look below
 
-[[Instagram](https://www.instagram.com/jonatasfalkaniere/)]
 [[LinkedIn](https://www.linkedin.com/in/jonatasfalkaniere)]
